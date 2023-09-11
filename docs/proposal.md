@@ -32,17 +32,18 @@ The outcome from research on the Olympic dataset may undoubtedly help us better 
 ### Data Shape : 271116 rows x 15 columns
 
 ### Columns Details:
--ID: A unique identifier for each entry (athlete).
--Name: The name of the athlete.
--Sex: The gender of the athlete (M for male in this case).
--Age: The age of the athlete at the time of the event.
--Height: The height of the athlete.
--Weight: The weight of the athlete.
--Team: The national team that the athlete represents (in this case, China).
--NOC: The National Olympic Committee (NOC) code for the country (in this case, CHN for China).
--Games: A combination of the year and season of the Olympic Games (e.g., "1992 Summer" indicates the 1992 Summer Olympics).
--Year: The year of the Olympic Games (e.g., 1992).
--Season: The season of the Olympic Games (e.g., Summer).
--City: The host city of the Olympic Games (e.g., Barcelona).
--Sport: The sport in which the athlete is competing (e.g., Basketball).
--Event: The specific event or competition within the sport (e.g., Men's Basketball).
+- ID: A unique identifier for each entry (athlete).
+- Name: The name of the athlete.
+- Sex: The gender of the athlete (M for male in this case).
+- Age: The age of the athlete at the time of the event.
+- Height: The height of the athlete.
+- Weight: The weight of the athlete.
+- Team: The national team that the athlete represents (in this case, China).
+- NOC: The National Olympic Committee (NOC) code for the country (in this case, CHN for China).
+- Games: A combination of the year and season of the Olympic Games (e.g., "1992 Summer" indicates the 1992 Summer Olympics).
+- Year: The year of the Olympic Games (e.g., 1992).
+- Season: The season of the Olympic Games (e.g., Summer).
+- City: The host city of the Olympic Games (e.g., Barcelona).
+- Sport: The sport in which the athlete is competing (e.g., Basketball).
+- Event: The specific event or competition within the sport (e.g., Men's Basketball).
+
