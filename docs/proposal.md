@@ -29,7 +29,7 @@ The outcome from research on the Olympic dataset may undoubtedly help us better 
 
 ### Data Size : 39.5 MB
 
-### Data Shape : 271116 rows x 15 columns
+### Data Shape : 271116 rows x 15 columns , 230 rows x 3 Columns
 
 ### Columns Details:
 - ID: A unique identifier for each entry (athlete).
