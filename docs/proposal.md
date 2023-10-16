@@ -46,4 +46,8 @@ The outcome from research on the Olympic dataset may undoubtedly help us better 
 - **City:** The host city of the Olympic Games (e.g., Barcelona).
 - **Sport:** The sport in which the athlete is competing (e.g., Basketball).
 - **Event:** The specific event or competition within the sport (e.g., Men's Basketball).
+- **Medal:** an athlete won a medal in a particular event during the Olympics
 
+  ## Target Variable
+  -  The "Medal" column is the target variable . The variable  I want to predict based on the values of other features.
+  -  I want to predict whether an athlete will win a Gold, Silver, or Bronze medal (multiclass classification), or whether they won a medal or not 
