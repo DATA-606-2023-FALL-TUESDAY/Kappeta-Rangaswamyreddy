@@ -1,3 +1,5 @@
+![olympic pic](https://github.com/DATA-606-2023-FALL-TUESDAY/Kappeta-Rangaswamyreddy/assets/130123607/cf028b16-985c-4eaf-befc-f587e02428e8)
+
 ## 1. Title and Author
 
 **Project Title:** Olympics Data Analysis Recommendation System
