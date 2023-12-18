@@ -12,9 +12,9 @@
 
 **LinkedIn Profile:** ![LinkedIn](https://www.linkedin.com/in/rangaswamyreddy-kappeta-a42b0b272/)
 
-**PowerPoint Presentation:** [Link to PowerPoint presentation file]
+**PowerPoint Presentation:** https://github.com/DATA-606-2023-FALL-TUESDAY/Kappeta-Rangaswamyreddy/blob/main/docs/OLYMPIC%20DATA%20ANALYSIS.pptx
 
-**YouTube Video:** [Link to YouTube video]
+**YouTube Video:** https://youtu.be/z2CohKXF3T0
 
 ## Background
 
